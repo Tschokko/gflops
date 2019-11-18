@@ -1,0 +1,4 @@
+baseURL = "http://gigaflops.org/"
+languageCode = "en-us"
+title = "gigaflops.org"
+theme = "classic"
