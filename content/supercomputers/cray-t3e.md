@@ -48,3 +48,52 @@ the larger 128 PEs configuration.
 This supercomputer is the largest possible configuration of an air-cooled
 Cray T3E. It consists of 6 cabinets and 128 processing elements total, with a
 peak performance of 80.0 GigaFLOPS.
+
+<table border="1" cellpadding="3">
+<thead>
+    <tr>
+        <th colspan="2" align="left">Specification</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Machine Type</td>
+        <td>Cray T3E, 3D Torus interconnect<br>
+            Interconnect Bandwidth: 136 x 500 MB/s = 68 GB/sec
+        </td>
+    </tr>
+    <tr>
+        <td>Serial #</td>
+        <td>6523</td>
+    </tr>
+    <tr>
+        <td>Year of Production</td>
+        <td>1996</td>
+    </tr>
+    <tr>
+        <td>CPU Type</td>
+        <td> DEC Alpha EV5 21164 300 MHz, 3.3 nsec
+</td>
+    </tr>
+    <tr>
+        <td>Number of Processors</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>Main Memory</td>
+        <td>128 x 128 MByte = 16 GByte</td>
+    </tr>
+    <tr>
+        <td>Word Length</td>
+        <td>64 bit</td>
+    </tr>
+    <tr>
+        <td>Network Connectivity</td>
+        <td>100 Mbit/s Ethernet</td>
+    </tr>
+</tbody>
+</table>
+
+<a href="/images/supercomputers/marvel_large.jpg" target="blank">
+    <img border="2" src="/images/supercomputers/marvel_small.jpg">
+</a>

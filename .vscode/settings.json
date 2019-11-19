@@ -1,5 +1,5 @@
 {
-  "[html]": {
+  "[.html]": {
     "editor.formatOnSave": false
   }
 }

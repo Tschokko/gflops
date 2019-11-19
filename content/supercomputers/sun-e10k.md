@@ -1,5 +1,5 @@
 ---
-title: "Sun Ultra Enterprise 10000 Symmetric Multiprocessing System"
+title: "Sun Ultra Enterprise 10000 Symmetric Multi-Processing"
 date: 2019-11-18T18:33:41+01:00
 draft: false
 ---
@@ -39,15 +39,49 @@ If you're interessted in more details about the Sun Ultra Enterprise 10000 have 
 We splitted our Sun Ultra Enterprise into two partitions. During operating you
 have access to 56 processor and 56 GB of main memory.
 
-#### Specifications
+<table border="1" cellpadding="3">
+<thead>
+    <tr>
+        <th colspan="2" align="left">Specification</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Machine Type</td>
+        <td>Sun Ultra Enterprise 10000</td>
+    </tr>
+    <tr>
+        <td>Serial #</td>
+        <td>7018D</td>
+    </tr>
+    <tr>
+        <td>Year of Production</td>
+        <td>1997</td>
+    </tr>
+    <tr>
+        <td>CPU Type</td>
+        <td> UltraSPARC II 400 MHz, 2.5ns, CMOS technology, 8MB Cache</td>
+    </tr>
+    <tr>
+        <td>Number of Processors</td>
+        <td>60 cache-consistent SMP</td>
+    </tr>
+    <tr>
+        <td>Main Memory</td>
+        <td>60 GB (4 GB per 4-proc system board) </td>
+    </tr>
+    <tr>
+        <td>Word Length</td>
+        <td>64 bit</td>
+    </tr>
+    <tr>
+        <td>Binary Compatibility</td>
+        <td>SPARC</td>
+    </tr>
+</tbody>
+</table>
 
-| Specification        |                                                           |
-| -------------------- | --------------------------------------------------------- |
-| Machine Type         | adasd                                                     |
-| Serial #             | 7018D                                                     |
-| Year of Introduction | 1977                                                      |
-| CPU Type             | UltraSPARC II 400 MHz / 2.5ns, CMOS technology, 8MB Cache |
-| Number of processors | 60 cache-consistent SMP                                   |
-| Main memory          | 60 GB (4 GB per 4-proc system board)                      |
-| Word length          | 64 bit                                                    |
-| Binary compatibility | SPARC                                                     |
+<a href="/images/supercomputers/starfire_large.jpg" target="blank">
+    <img border="2" src="/images/supercomputers/starfire_small.jpg">
+</a>
+

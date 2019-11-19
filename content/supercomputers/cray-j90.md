@@ -27,6 +27,106 @@ If your interessted in more information about the Cray J90, have a look at [Wiki
 
 Since our Cray J932 already named jedi, the smaller J916 is called padawan. This system will be scheduled more frequently for operating and should be used as the primary development system. If your code is working fine you can request a schedule for the larger Cray J932 configuration.
 
+<table border="1" cellpadding="3">
+<thead>
+    <tr>
+        <th colspan="2" align="left">Specification</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Machine Type</td>
+        <td>Cray J90-16</td>
+    </tr>
+    <tr>
+        <td>Serial #</td>
+        <td>9107</td>
+    </tr>
+    <tr>
+        <td>Year of Production</td>
+        <td>1994</td>
+    </tr>
+    <tr>
+        <td>CPU Type</td>
+        <td>Cray J90 (Vector processor, CMOS technology)</td>
+    </tr>
+    <tr>
+        <td>Number of Processors</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>Main Memory</td>
+        <td>2 GByte</td>
+    </tr>
+    <tr>
+        <td>Word Length</td>
+        <td>64 bit</td>
+    </tr>
+    <tr>
+        <td>Binary Compatibility</td>
+        <td>up to the Cray-1 (1976)</td>
+    </tr>
+    <tr>
+        <td>Network Connectivity</td>
+        <td>125 Mbit/s FDDI</td>
+    </tr>
+</tbody>
+</table>
+
+<a href="/images/supercomputers/padawan_large.jpg" target="blank">
+    <img border="2" src="/images/supercomputers/padawan_small.jpg">
+</a>
+
 ### jedi.gigaflops.net {#jedi}
 
 The internal code-name at Cray Research for the Cray J90 series was Jedi. And that's why we're naming this supercomputer jedi, too. The J932 is the largest possible configuration for this series of vector processor supercomputers.
+
+<table border="1" cellpadding="3">
+<thead>
+    <tr>
+        <th colspan="2" align="left">Specification</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Machine Type</td>
+        <td>Cray J90-32</td>
+    </tr>
+    <tr>
+        <td>Serial #</td>
+        <td>9550</td>
+    </tr>
+    <tr>
+        <td>Year of Production</td>
+        <td>1994</td>
+    </tr>
+    <tr>
+        <td>CPU Type</td>
+        <td>Cray J90 (Vector processor, CMOS technology)</td>
+    </tr>
+    <tr>
+        <td>Number of Processors</td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td>Main Memory</td>
+        <td>4 GByte</td>
+    </tr>
+    <tr>
+        <td>Word Length</td>
+        <td>64 bit</td>
+    </tr>
+    <tr>
+        <td>Binary Compatibility</td>
+        <td>up to the Cray-1 (1976)</td>
+    </tr>
+    <tr>
+        <td>Network Connectivity</td>
+        <td>125 Mbit/s FDDI</td>
+    </tr>
+</tbody>
+</table>
+
+<a href="/images/supercomputers/jedi_large.jpg" target="blank">
+    <img border="2" src="/images/supercomputers/jedi_small.jpg">
+</a>
