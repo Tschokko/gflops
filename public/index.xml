@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gigaflops.org</title>
+    <link>http://gigaflops.org/</link>
+    <description>Recent content on gigaflops.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2019 18:33:41 +0100</lastBuildDate>
+    
+	<atom:link href="http://gigaflops.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cray T3E</title>
+      <link>http://gigaflops.org/supercomputers/cray-t3e/</link>
+      <pubDate>Mon, 18 Nov 2019 18:33:41 +0100</pubDate>
+      
+      <guid>http://gigaflops.org/supercomputers/cray-t3e/</guid>
+      <description>TL;DR The Cray T3E is the successor of our Cray T3D and is a massively parallel supercomputer, launched in 1995. In contrast to our Cray T3D, we own a Cray T3E in a multi-cabinet air-cooled configuration with up to 128 processing elements. Therefore it&amp;rsquo;s a perfect supercomputer to run and operate frequently without too complex infrastructure requirements, except the high power consumption.
+Since we have a bunch of cabinets we can even run two Cray T3E installations!</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>http://gigaflops.org/posts/my-first-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>http://gigaflops.org/posts/my-first-post/</guid>
+      <description>Überschrift Etwas Fließtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt.
+ Ein Listenpunkt Noch ein Listenunkt  Weiterer Fließtext: Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+    </item>
+    
+  </channel>
+</rss>
