@@ -1,14 +1,14 @@
 ---
-title: "Cray J90 - Vector Processor Supercomputer"
+title: "Cray J90 Vector Processor Supercomputer"
 date: 2019-11-18T18:57:59+01:00
 ---
 
-## System Overview
+## Available Systems
 
-padawan.gigaflops.net
-:  Cray J916, UNICOS 10.0.0.7 (Unix), 19.2 GigaFLOPS peak performance
+[padawan.gigaflops.net](#padawan)
+: Cray J916, UNICOS 10.0.0.7 (Unix), 19.2 GigaFLOPS peak performance
 
-jedi.gigaflops.net
+[jedi.gigaflops.net](#jedi)
 : Cray J932, UNICOS 9.0.2.2 (Unix), 38.4 GigaFLOPS peak performance
 
 ## TL;DR
@@ -21,10 +21,12 @@ The Cray J90 got the code-name Jedi during development at Cray Resarch. That's w
 
 If your interessted in more information about the Cray J90, have a look at [Wikipedia](https://en.wikipedia.org/wiki/Cray_J90).
 
-## padawan.gigaflops.net
+## System Details
+
+### padawan.gigaflops.net {#padawan}
 
 Since our Cray J932 already named jedi, the smaller J916 is called padawan. This system will be scheduled more frequently for operating and should be used as the primary development system. If your code is working fine you can request a schedule for the larger Cray J932 configuration.
 
-## jedi.gigaflops.net
+### jedi.gigaflops.net {#jedi}
 
 The internal code-name at Cray Research for the Cray J90 series was Jedi. And that's why we're naming this supercomputer jedi, too. The J932 is the largest possible configuration for this series of vector processor supercomputers.

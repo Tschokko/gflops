@@ -1,6 +1,23 @@
 {{ partial "header.html" . }}
 
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-
-{{ partial "footer.html" . }}
+<table border="0" cellpadding="10">
+<tbody>
+<tr>
+  <td width="120" valign="top" align="right">
+    <img src="/images/mont_ps.gif">
+  <font size="-2">
+  <h1>
+      {{ .Title }}
+  </h1>
+  </font>
+  {{ partial "aside-toc.html" . -}}
+  </td>
+  <td width="5"><br></td>
+  <td></td>
+  <td valign="top">
+  {{ partial "headline-anchor.html" .Content }}
+  {{ partial "footer.html" . }}
+  </td>
+</tr>
+</tbody>
+</table>
